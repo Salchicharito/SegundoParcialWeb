@@ -1,2 +1,5 @@
-package org.gerdoc.servlet;public class LoginServlet {
+package org.gerdoc.servlet;
+
+public class LoginServlet {
+
 }
